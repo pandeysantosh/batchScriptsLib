@@ -1,6 +1,6 @@
-# batchScriptsLib
 
-Export and Import chrome bookmarks
+
+# Export and Import chrome bookmarks
 -	Export the bookmarks from chrome browsers.
 -	Close all the open browser.
 -	Clear caches and restore the original installed settings.
